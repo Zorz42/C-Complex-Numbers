@@ -1,2 +1,2 @@
 # C++ Complex Numbers
-simple experimentation and implementation with complex numbers 
+Simple experimentation and implementation with complex numbers in C++.
